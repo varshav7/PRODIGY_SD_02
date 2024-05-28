@@ -17,7 +17,6 @@ int main()
 		printf("The number is higher than the guess");
 		else
 		printf("The number is lower than the guess");
-		printf("\n %d",original);
 		ctr++;
 		goto label1;
 	}
